@@ -11,6 +11,8 @@
 ## Description de l'oeuvre
 Cette boucle visuelle et sonore permet à l'interacteur de chorégraphier son présent en le construisant sur son propre passé, de manière ludique et singulière.
 ## Installation interactive
+
+![Installation interactive](
 ## Mise en espace
 L'affichage DEL est situé dans le milieu du pièce, sur une platforme de bois. situé devant et perpandiculaire de l'affichage est un écran avec des haut-parleurs à ses côtés et un ordinateur situé derrière l'ordi. 
 
