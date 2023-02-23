@@ -1,5 +1,7 @@
 # Travail 1A
 ## Exposition BIAN6
+
+![Affiche BIAN6](Media/Affichage_BIAN6.jpg)
 ## Arsenal 2020
 ## Exposition temporaire et intérieure
 ## Le 2 Février, 2023
