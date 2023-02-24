@@ -31,8 +31,18 @@ L'affichage DEL est situé dans le milieu du pièce, sur une platforme de bois. 
 ![Croquis 2](Media/Croquis_2_edited.jpg)
 ## Composantes et techniques
 Installation interactive, bois, acier, acrylique, affichage DEL, ordinateur, haut-parleur, composants électroniques.
+
+![Ordinateur](Media/Ordi_edited.jpg)
+
+![Haut-parleur](Media/Haut_parleur_edited.jpg)
 ## Éléments nécessaires à la mise en exposition
 Platforme de bois, haut-parleurs, écran, étiquette du musée.
+
+![Ordinateur](Media/Ordi_edited.jpg)
+
+![Haut-parleur](Media/Haut_parleur_edited.jpg)
+
+![Vue 2](Media/Vue_2_edited.jpg)
 ## Expérience vécue
 Pour interagir avec Résonances, il faut simplement passer à travers l'affichage DEL, et l'image du personne apparaîtra sur l'écran. À mon avis, l'installation était amusant à interagir avec, mais ça na pas laissé des grandes impréssions sur moi.
 
