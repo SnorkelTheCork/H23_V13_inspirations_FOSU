@@ -52,5 +52,7 @@ J'ai aimé pouvoir interagir avec l'installation, parce que c'était un des seul
 ## Ce que je ferait autrement
 J'aurait ajusté comment les images apparaient sur l'écran, parce que, la majorité du temps, les images des interacteurs avaient l'air vraiment bizarre.
 ## Références
-Étiquette du muséé
+Étiquette du muséé, [Arsenal](https://www.arsenalcontemporary.com/mtl/exhib/detail/2022-elektra-6e-biennale)
+
+
 
