@@ -54,5 +54,4 @@ J'aurait ajusté comment les images apparaient sur l'écran, parce que, la major
 ## Références
 Étiquette du muséé, [Arsenal](https://www.arsenalcontemporary.com/mtl/exhib/detail/2022-elektra-6e-biennale)
 
-
-
+![Étiquette](Media/Étiquette_edited.jpg)
