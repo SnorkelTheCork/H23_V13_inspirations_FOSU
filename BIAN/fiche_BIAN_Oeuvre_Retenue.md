@@ -8,6 +8,8 @@
 ## Exposition temporaire et intérieure
 ## Le 2 Février, 2023
 ## Résonances
+
+![Photo Ensemble](Media/Vue_ensemble_edited.jpg)
 ## Louis-Philippe Rondeau
 ## 2021
 ## Description de l'oeuvre
