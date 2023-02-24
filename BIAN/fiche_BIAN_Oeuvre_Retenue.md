@@ -46,7 +46,7 @@ Platforme de bois, haut-parleurs, écran, étiquette du musée.
 ## Expérience vécue
 Pour interagir avec Résonances, il faut simplement passer à travers l'affichage DEL, et l'image du personne apparaîtra sur l'écran. À mon avis, l'installation était amusant à interagir avec, mais ça na pas laissé des grandes impréssions sur moi.
 
-[![Gestes Interacteur](http://img.youtube.com/vi/JN5_vqRgjd0/0.jpg)](http://www.youtube.com/watch?v=JN5_vqRgjd0)
+[![Gestes Interacteur](http://img.youtube.com/vi//0.jpg)](http://www.youtube.com/watch?v=)
 ## Ce qui m'a plu
 J'ai aimé pouvoir interagir avec l'installation, parce que c'était un des seuls oeuvre qui était interactive.
 ## Ce que je ferait autrement
