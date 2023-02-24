@@ -4,7 +4,7 @@
 ![Affiche BIAN6](Media/Affichage_BIAN6.jpg)
 ## Arsenal 2020
 
-![Photo lieu](
+![Photo lieu](Media/Photo_d'entré_edited.jpg)
 ## Exposition temporaire et intérieure
 ## Le 2 Février, 2023
 ## Résonances
