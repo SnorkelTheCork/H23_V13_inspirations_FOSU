@@ -14,6 +14,10 @@
 ## 2021
 ## Description de l'oeuvre
 Cette boucle visuelle et sonore permet à l'interacteur de chorégraphier son présent en le construisant sur son propre passé, de manière ludique et singulière.
+
+![Vue 1](Media/Vue_1_edited.jpg)
+
+![Vue 2](Media/Vue_2_edited.jpg)
 ## Installation interactive
 
 ![Installation interactive](Media/Installation_Interactive.jpg)
