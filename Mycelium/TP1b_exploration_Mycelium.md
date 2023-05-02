@@ -18,7 +18,7 @@ L'histoire dans Zodie-Gal est d'une jeune fille qui est dans sa première period
 ![Affichage_Luma Sol](Médias/Affichage_lumasol.png)
 
 ### Créateurs: Éloïse Gagné, Skayla Stimphil, Michaël Simard, Pénélope Morrisson
-Le but de Luma Sol est de sensibiliser les gens aux conséquences du changement climatiques, plus précisement sur l'environnemnt lumineux. Les participants seront donc encouragés à pédaler pour leur montrer que leurs actions peuvent avoir un impact positif. C'est parfait pour le thème environnemental de Mycelium.
+Le but de Luma Sol est de sensibiliser les gens aux conséquences du changement climatiques, plus précisement sur l'environnemnt lumineux. Les participants seront donc encouragés à pédaler pour leur montrer que leurs actions peuvent avoir un impact positif.C'est parfait pour le thème environnemental de Mycelium.
 
 ## 4. EDRIA
 ![Affichage_EDRIA](Médias/Affichage_edria.png)
