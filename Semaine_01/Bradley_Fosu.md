@@ -1,7 +1,7 @@
 
 # Bradley Fosu
 
-![Portrait_Bradley](Semaine_01/Portrait_Bradley.jpg)
+![Portrait_Bradley]()
 
 ## Intérêts dans le domaine du multimédia
 
