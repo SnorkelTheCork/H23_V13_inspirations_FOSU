@@ -69,3 +69,7 @@ L'installation de Nexum et le thème de Mycelium ont le même but; de reétablir
 ### Schéma: ![nexum_schéma](Médias/nexum_schéma.png)
 
 ### Cours importants: Objets interactifs, Installation multimédia, Traitement audiovisuel
+
+## Références
+
+[Mycelium](https://tim-montmorency.com/2023/), [Grille de cours multimédia](https://www.cmontmorency.qc.ca/programmes/nos-programmes-detudes/techniques/techniques-dintegration-multimedia/grille-de-cours/)
